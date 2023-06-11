@@ -1,0 +1,515 @@
+.jg_subcatelem_txt {
+    background: rgba(70, 132, 7, .5)
+}
+
+.jg_subcatelem_txt:before {
+    background: #468407
+}
+
+.jg_imgalign_catimgs .jg_catelem_txt {
+    background: rgba(70, 132, 7, .5)
+}
+
+.jg_imgalign_catimgs .jg_catelem_txt:before {
+    background: #468407
+}
+
+#section-kmt .kmt-control-user .kmt-btn {
+    border: 1px solid #61b30c;
+    color: #7be014
+}
+
+#section-kmt .kmt-like-counter {
+    border: 1px solid #61b30c
+}
+
+#section-kmt .kmt-like-counter:before {
+    border-left: 5px solid #61b30c
+}
+
+#section-kmt .kmt-rank-progress {
+    background: #468407
+}
+
+#Kunena .kfile-hide .kbutton,
+#Kunena .kfile-hide .kfile-input {
+    background: #468407
+}
+
+#Kunena a:hover {
+    color: #468407
+}
+
+#Kunena ul li a:hover {
+    color: #468407
+}
+
+#Kunena div.chzn-container .chzn-results li:hover {
+    background: #468407
+}
+
+#Kunena #ktop #ktopmenu #ktab ul.menu li a {
+    border-bottom: 2px solid transparent
+}
+
+#Kunena .klist-markallcatsread+div.kblock {
+    margin-top: 0
+}
+
+#Kunena div.kblock div.kheader {
+    background: #468407
+}
+
+#Kunena .chzn-container-active.chzn-with-drop .chzn-single div {
+    background: #468407
+}
+
+#Kunena div.kblock div.kheader>span:not(.kcheckbox) {
+    background: #468407
+}
+
+#Kunena dl.tabs dt.open {
+    background: #468407
+}
+
+@-webkit-keyframes fadeOut {}
+
+@keyframes fadeOut {}
+
+.page-gallery__works .item_img .more_wrapper {
+    background: rgba(70, 132, 7, .5)
+}
+
+.page-gallery__works .gallery-item .item_header h1.item_title a,
+.page-gallery__works .gallery-item .item_header h2.item_title a,
+.page-gallery__works .gallery-item .item_header h3.item_title a,
+.page-gallery__works .gallery-item .item_header h4.item_title a,
+.page-gallery__works .gallery-item .item_header h5.item_title a,
+.page-gallery__works .gallery-item .item_header h6.item_title a {
+    color: #468407
+}
+
+.sorting ul#sort li a:hover {
+    color: #468407
+}
+
+.sorting ul#sort li.active {
+    color: #468407
+}
+
+.sorting ul#sort li.active a {
+    color: #468407
+}
+
+.item_img .articleGalleryZoom:before,
+.item_img .galleryZoomIcon:before {
+    background: #468407
+}
+
+.swiper-scrollbar-drag {
+    background: #468407
+}
+
+@-webkit-keyframes swiper-preloader-spin {}
+
+@keyframes swiper-preloader-spin {}
+
+@-webkit-keyframes fadeIn {}
+
+@keyframes fadeIn {}
+
+.mod-newsflash-adv.custom *[class*=sympletts] {
+    color: #468407
+}
+
+.mod-newsflash-adv.testimonials .item_title {
+    color: #829f1f
+}
+
+.mod-newsflash-adv.mod-newsflash-adv__services.cols-2 .row .item .item_content .item_title,
+.mod-newsflash-adv.mod-newsflash-adv__services.cols-3 .row .item .item_content .item_title,
+.mod-newsflash-adv.mod-newsflash-adv__services.cols-4 .row .item .item_content .item_title,
+.mod-newsflash-adv.mod-newsflash-adv__services.cols-5 .row .item .item_content .item_title,
+.mod-newsflash-adv.mod-newsflash-adv__services.cols-6 .row .item .item_content .item_title {
+    color: #829f1f
+}
+
+.mod-newsflash-adv.mod-newsflash-adv__services .mod-newsflash-adv_custom-link .btn-info {
+    background: #468407;
+    border-color: #468407
+}
+
+.mod-newsflash-adv.mod-newsflash-adv__services .mod-newsflash-adv_custom-link .btn-info:hover {
+    background: #262a33;
+    border-color: #262a33
+}
+
+.mod-newsflash-adv.mod-newsflash-adv__pricing_simple .item .item_content .item_title {
+    color: #468407
+}
+
+.mod-newsflash-adv.mod-newsflash-adv__pricing_simple .item.featured .item_content .btn:hover {
+    background: #468407
+}
+
+.moduletable .parallax .mod-newsflash-adv__services .item_title {
+    color: #468407
+}
+
+.moduletable .parallax .mod-newsflash-adv__services .readmore:hover {
+    background: #468407 !important
+}
+
+.moduletable .parallax .readmore:focus,
+.moduletable .parallax .readmore:hover {
+    color: #262a33
+}
+
+.tags .label {
+    background: #468407
+}
+
+.item_info .item_info_dl dd {
+    color: #468407
+}
+
+.item_info .item_info_dl dd a {
+    color: #468407
+}
+
+.social-links li a {
+    color: #468407
+}
+
+.headerContent {
+    background: #262a33;
+    color: #7b808d
+}
+
+#logo a {
+    color: #262a33 !important
+}
+
+#header:before,
+#header:after {
+    background: #262a33
+}
+
+#header:before {
+    -moz-transform: rotate(-15deg);
+    -webkit-transform: rotate(-15deg);
+    -ms-transform: rotate(-15deg);
+    -o-transform: rotate(-15deg);
+    transform: rotate(-15deg)
+}
+
+#header:after {
+    -moz-transform: rotate(15deg);
+    -webkit-transform: rotate(15deg);
+    -ms-transform: rotate(15deg);
+    -o-transform: rotate(15deg);
+    transform: rotate(15deg)
+}
+
+#showcase .moduleTitle,
+#showcase .item-title {
+    color: #dee7ff
+}
+
+#showcase .item_title {
+    color: #7b808d
+}
+
+#maintop {
+    border-top: 1px solid #43691b;
+    background-image: -webkit-linear-gradient(top, #2e5604 0%, #468407 100%);
+    background-image: -o-linear-gradient(top, #2e5604 0%, #468407 100%);
+    background-image: linear-gradient(to bottom, #2e5604 0%, #468407 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff2e5604', endColorstr='#ff468407', GradientType=0)
+}
+
+#maintop .btn-info:hover,
+#maintop .readmore:hover {
+    color: #468407
+}
+
+#mainbottom {
+    background-image: -webkit-linear-gradient(top, #2e5604 0%, #468407 100%);
+    background-image: -o-linear-gradient(top, #2e5604 0%, #468407 100%);
+    background-image: linear-gradient(to bottom, #2e5604 0%, #468407 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff2e5604', endColorstr='#ff468407', GradientType=0)
+}
+
+#mainbottom .btn-info:hover,
+#mainbottom .readmore:hover {
+    color: #468407
+}
+
+#footer-wrapper {
+    background: #1c1f25;
+    color: #7b808d
+}
+
+#footer-wrapper *[class*=heading-style] {
+    color: #dee7ff
+}
+
+.copyright a {
+    color: #7b808d
+}
+
+.address_phones i {
+    color: #468407
+}
+
+hr {
+    border-top: 1px solid #6ec812
+}
+
+a {
+    color: #468407
+}
+
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover,
+h5 a:hover,
+h6 a:hover {
+    color: #468407
+}
+
+blockquote:before {
+    color: #829f1f
+}
+
+blockquote cite {
+    color: #468407
+}
+
+.item_introtext mark,
+.item_fulltext mark,
+.category_desc mark {
+    background: #468407
+}
+
+table th {
+    background: #468407
+}
+
+table a {
+    color: #468407
+}
+
+dl.table dt {
+    background: #468407
+}
+
+div.chzn-container .chzn-results li.highlighted {
+    background: #468407
+}
+
+.input-prepend {}
+
+.input-prepend .add-on i,
+.input-prepend .add-on>span {
+    color: #468407
+}
+
+.input-prepend .add-on:hover i {
+    background: #468407
+}
+
+.btn,
+.kbutton {
+    color: #468407;
+    border: 1px solid #468407
+}
+
+.btn:hover,
+.kbutton:hover,
+.btn:focus,
+.kbutton:focus,
+.btn.focus,
+.kbutton.focus,
+.btn.active,
+.kbutton.active,
+.btn.selected,
+.kbutton.selected {
+    background: #468407
+}
+
+.breadcrumb a:hover {
+    color: #468407
+}
+
+.progress-bar-default .progress-bar__stroke {
+    stroke: #468407
+}
+
+.progress-bar-default.progress-bar-radial .progress-bar__stroke {
+    stroke: #468407
+}
+
+ul li a,
+ol li a {
+    color: #468407
+}
+
+ol li:before {
+    color: #468407
+}
+
+.nav.menu.social li a:hover {
+    color: #468407
+}
+
+.custom .panel-group .panel-heading a {
+    background: #468407
+}
+
+.modal {
+    background: #468407
+}
+
+.modal-content {
+    background-color: #468407
+}
+
+.offline_container .well {
+    background: #468407
+}
+
+.mod-menu .nav.menu.nav-pills>li.active>a {
+    background: #468407
+}
+
+.icons .btn-group.pull-right ul.dropdown-menu>li>a:hover {
+    background: #468407
+}
+
+.body__elements #content-bottom .moduletable.col-sm-12 .module_container:before {
+    background: #468407
+}
+
+.body__elements .spacer {
+    background: #468407
+}
+
+#back-top a:hover {
+    color: #262a33
+}
+
+#habla_window_div #habla_topbar_div {
+    background: #468407 !important
+}
+
+*::selection {
+    background: #468407
+}
+
+*::-moz-selection {
+    background: #468407
+}
+
+.icemega_modulewrap.top_search i.fa-times {
+    color: #468407
+}
+
+.icemega_modulewrap.top_search .btn-primary {
+    color: #468407
+}
+
+.login_shell {
+    background: #60b40a
+}
+
+div#fixed-sidebar-right .moduletable.login>i.fa-user {
+    background: #468407
+}
+
+div#fixed-sidebar-right .moduletable.login .mod_login_wrapper {
+    background: #60b40a
+}
+
+div#fixed-sidebar-right .moduletable.login .mod_login_wrapper .input-prepend .add-on:hover i {
+    color: #468407
+}
+
+.menu-login-form>ul:before {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 11px 11px;
+    border-color: transparent transparent #468407 transparent
+}
+
+.menu-login-form .icemega_modulewrap.login_megamenu {
+    background: #60b40a
+}
+
+.page-category__history .items-row>div:before {
+    background: #468407
+}
+
+.page-category__history .items-row:before {
+    background: #468407
+}
+
+.page-category__faqs .item_title span.item_title_part0 {
+    color: #468407
+}
+
+.icemegamenu>ul>li>a.iceMenuTitle {
+    color: #262a33
+}
+
+.icemegamenu>ul>li>a.iceMenuTitle:hover,
+.icemegamenu>ul>li>a.iceMenuTitle.hover,
+.icemegamenu>ul>li>a.iceMenuTitle.icemega_active {
+    color: #262a33;
+    border-color: #468407
+}
+
+.icemegamenu>ul>li.active>a.iceMenuTitle,
+.icemegamenu>ul>li.hover>a.iceMenuTitle {
+    color: #262a33;
+    border-color: #468407
+}
+
+.icemegamenu>ul>li span.icemega_desc {
+    color: #262a33
+}
+
+ul.icesubMenu li.active>a.iceMenuTitle,
+ul.icesubMenu li:hover>a.iceMenuTitle,
+ul.icesubMenu li.hover>a.iceMenuTitle {
+    color: #468407
+}
+
+@media(max-width:1200px) {
+    h1.heading-style-3,
+    h2.heading-style-3,
+    h3.heading-style-3,
+    h4.heading-style-3,
+    h5.heading-style-3,
+    h6.heading-style-3 {
+        line-height: 36px !important
+    }
+}
+
+@media(max-width:767px) {
+    .rd-mobilemenu_ul a.iceMenuTitle:hover {
+        background: #468407
+    }
+    .rd-mobilemenu_ul a.active,
+    .rd-mobilemenu_ul li.level_1.active>a {
+        color: #262a33;
+        background: #468407
+    }
+    .rd-mobilemenu_submenu li.active>a {
+        background: #468407
+    }
+}
